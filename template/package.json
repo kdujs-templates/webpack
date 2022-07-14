@@ -110,7 +110,7 @@
     "rimraf": "^2.6.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
-    "kdu-loader": "^15.2.1-beta.0",
+    "kdu-loader": "^15.2.1-beta.1",
     "kdu-style-loader": "^4.1.0-rc.0",
     "kdu-template-compiler": "^2.5.16-alpha.0",
     "portfinder": "^1.0.13",
