@@ -86,8 +86,6 @@ module.exports = {
     },
   },
   filters: {
-    '.eslintrc.js': 'lint',
-    '.eslintignore': 'lint',
     'src/router/**/*': 'router',
   },
   complete: function(data, { chalk }) {
