@@ -1,0 +1,10 @@
+{
+  "name": "kdu-cli-template-webpack",
+  "version": "1.3.1",
+  "private": true,
+  "license": "MIT",
+  "description": "A full-featured Webpack setup with hot-reload & css extraction.",
+  "devDependencies": {
+    "kdu-cli": "^2.9.4"
+  }
+}
